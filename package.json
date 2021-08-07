@@ -1,0 +1,29 @@
+{
+  "name": "g-to-9-cli",
+  "version": "1.0.0",
+  "description": "g-to-9-cli",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinsun9/g-to-9-cli.git"
+  },
+  "keywords": [
+    "replace",
+    "replaceAll",
+    "cli",
+    "cli-app"
+  ],
+  "author": "chinsun9 <chin_sung@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chinsun9/g-to-9-cli/issues"
+  },
+  "homepage": "https://github.com/chinsun9/g-to-9-cli#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
