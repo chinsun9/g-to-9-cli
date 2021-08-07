@@ -25,5 +25,8 @@
   "homepage": "https://github.com/chinsun9/g-to-9-cli#readme",
   "devDependencies": {
     "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "commander": "^8.1.0"
   }
 }
