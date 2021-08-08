@@ -2,8 +2,10 @@
   "name": "g-to-9-cli",
   "version": "1.0.0",
   "description": "g-to-9-cli",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "cli.js",
+  "bin": {
+    "gto9": "cli.js"
+  },
   "scripts": {
     "build": "tsc"
   },
